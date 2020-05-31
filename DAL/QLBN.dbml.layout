@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLBN">
+  <DataContextMoniker Name="/QLBNDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d06b0d20-54dc-43e6-a004-4e9d5b9132f5" absoluteBounds="0.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/QLBNDataContext/BacSy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e7b42ab9-44da-481b-a7b4-fafa567820df" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="16ac28b6-9308-4884-ab28-a47af62c1a27" absoluteBounds="0.75, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLBNDataContext/BenhNhan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62b8acc7-8475-4027-a2f3-3b3d6f9972d0" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa2ed95c-87e2-47c2-be94-228d777ab543" absoluteBounds="3.5, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLBNDataContext/KhamBenh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00f0648f-65d4-4ca1-9d06-aee38aec6d4b" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.72199625651042); (3.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLBNDataContext/BacSy/BacSy_KhamBenh" />
+      <nodes>
+        <classShapeMoniker Id="d06b0d20-54dc-43e6-a004-4e9d5b9132f5" />
+        <classShapeMoniker Id="fa2ed95c-87e2-47c2-be94-228d777ab543" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.66429768880208); (4.5 : 4.66429768880208); (4.5 : 2.45359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLBNDataContext/BenhNhan/BenhNhan_KhamBenh" />
+      <nodes>
+        <classShapeMoniker Id="16ac28b6-9308-4884-ab28-a47af62c1a27" />
+        <classShapeMoniker Id="fa2ed95c-87e2-47c2-be94-228d777ab543" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

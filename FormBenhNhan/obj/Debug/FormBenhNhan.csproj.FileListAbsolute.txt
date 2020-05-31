@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\FormBenhNhan.exe.config
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\FormBenhNhan.exe
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\FormBenhNhan.pdb
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\Apache.NMS.dll
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\obj\Debug\FormBenhNhan.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\obj\Debug\FormBenhNhan.FormBenhNhan.resources
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\obj\Debug\FormBenhNhan.Properties.Resources.resources
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\obj\Debug\FormBenhNhan.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\obj\Debug\FormBenhNhan.exe
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBenhNhan\obj\Debug\FormBenhNhan.pdb

@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\FormBacSy.exe.config
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\FormBacSy.exe
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\FormBacSy.pdb
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\Apache.NMS.dll
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\obj\Debug\FormBacSy.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\obj\Debug\FormBacSy.FormBacSy.resources
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\obj\Debug\FormBacSy.Properties.Resources.resources
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\obj\Debug\FormBacSy.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\obj\Debug\FormBacSy.exe
+C:\Users\Student\Desktop\QuanLyBenhNhan\FormBacSy\obj\Debug\FormBacSy.pdb
